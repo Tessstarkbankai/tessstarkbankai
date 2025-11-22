@@ -1,21 +1,21 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm <span style="color:#E4405F;">Ayush (Ayushmaan) Rai</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#E4405F;">Ayush Rai (AYUSHMAAN)</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Official+Web+Developer+at+Invertis+University;Building+Real+World+Web+Solutions;Startup+Founder+%26+Tech+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayushmaan-rai&label=Profile+Views&color=E4405F&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=tessstarkbankai&label=Profile+Views&color=E4405F&style=flat-square" alt="views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m **Ayush Rai**, a passionate **Full-Stack Web Developer**, official **Web Developer at Invertis University**, and **Convenor at the Student Committee (IIC)**.  
-I love transforming ideas into fully functional, elegant, and scalable digital products.
+I’m **Ayush Rai**, a passionate **Full-Stack Web Developer**, a BTECH CSE Final Year Student at Invertis University**.  
+I enjoy building real-world digital products that combine seamless UI, strong backend logic, and scalable architecture.
 
-I also run **OctoCult Services LLP** & **AIMS**, where I help students and startups become **pitch-ready, funding-ready, and tech-ready** by building high-quality digital solutions.
+I also operate **OctoCult Services LLP**, where I mentor students and help early-stage startups become **pitch-ready, funding-ready, and tech-ready**.
 
 ---
 
@@ -37,65 +37,126 @@ I also run **OctoCult Services LLP** & **AIMS**, where I help students and start
 ---
 
 ## 🛠️ What I Do
-- Build **full-stack production-grade web apps**
-- Develop **official university websites & management systems**
-- Work on **government-level digital solutions** (Build for Bharat)
-- Lead and manage **college startups & student innovation teams**
-- Mentor students in **web development & project structuring**
+- Build **full-stack production-grade applications**
+- Create **official university websites & internal systems**
+- Develop **AI + Web integrated tools**
+- Work on **government-level projects** (Build for Bharat)
+- Manage and mentor teams at **Invertis Innovation & Incubation Center**
+- Guide startups towards solid **tech, branding, and pitch strategy**
 
 ---
 
-## 🔥 Featured Projects
-### 🚨 **ICRS – Invertis Complaint Raise System**
-A complete complaint management system with admin dashboard, proof upload, live status, and solved display.
+# 🔥 Featured Projects (All Major Work)
 
-### 🎫 **Invertis Auditorium Booking System**
-A real-time booking & management application used officially within the university.
+## 🚨 **ICRS – Invertis Complaint Raise System**
+Complete grievance redressal system with:
+- Anonymous & detailed complaints  
+- Admin dashboard  
+- Status tracking  
+- Image proof for solved complaints  
+- Automatic homepage display of solutions  
 
-### 🌐 **IIC Official Website**
-Designed & developed the professional site for Invertis Innovation & Incubation Center.
+---
 
-### 🤖 **AI Image Caption Generator**
-A deep-learning-powered captioning tool.
+## 🚗 **Vahana – Car Rental System**
+A modern car rental web platform built with:
+- Full booking workflow  
+- User dashboard  
+- Admin vehicle management  
+- Secure authentication system  
+- Responsive, clean UI  
 
-### 🅿️ **YOLO-NAS Parking Space Detection**
-Computer vision solution to detect empty parking spaces in real time.
+---
+
+## 💰 **Finova – AI Smart Finance Manager**
+An intelligent finance management tool built using:
+- AI-driven expense classification  
+- Smart dashboard  
+- Monthly insights & expense prediction  
+- Visual charts & analytics  
+
+---
+
+## 🎫 **Invertis Auditorium Booking System**
+Production-ready university booking system with:
+- Real-time availability  
+- Admin controls  
+- Approval workflow  
+- Smooth UI for faculty and students  
+
+---
+
+## 🌐 **IIC Official Website (Invertis Innovation & Incubation Center)**
+Designed & developed the official site for IIC with:
+- Modern UI  
+- Startup showcase section  
+- Incubation programs  
+- Event & announcement management  
+
+---
+
+## 🤖 **AI Image Caption Generator**
+Deep-learning-powered caption generator using:
+- Vision models  
+- Image feature extraction  
+- Smart captioning with sequence modeling  
+
+---
+
+## 🅿️ **YOLO-NAS Parking Space Detection**
+Real-time parking lot assistant with:
+- YOLO-NAS object detection  
+- Occupied vs empty space classification  
+- Video feed processing  
+
+---
+
+## 📦 **DRIVE – File Storage App (Node.js + EJS)**
+A storage management system supporting:
+- File uploads  
+- Private folders  
+- Secure access system  
+
+---
+
+## 📝 **Resume by HTML Only**
+A clean, responsive resume template built purely with HTML & CSS.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushmaan-rai&show_icons=true&theme=radical&border_radius=15&border_color=E4405F&bg_color=0D1117" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmaan-rai&layout=compact&theme=radical&border_radius=15&border_color=E4405F&bg_color=0D1117" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tessstarkbankai&show_icons=true&theme=radical&border_radius=15&border_color=E4405F&bg_color=0D1117" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessstarkbankai&layout=compact&theme=radical&border_radius=15&border_color=E4405F&bg_color=0D1117" height="170px"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushmaan-rai&theme=radical&border_radius=15&background=0D1117&border=E4405F" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tessstarkbankai&theme=radical&border_radius=15&background=0D1117&border=E4405F" />
 </p>
 
 ---
 
 ## 📅 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushmaan-rai&theme=redical&bg_color=0D1117&color=E4405F&line=E4405F&point=FF6B35&area=true&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tessstarkbankai&theme=redical&bg_color=0D1117&color=E4405F&line=E4405F&point=FF6B35&area=true&hide_border=false" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayushmaan-rai&theme=radical&no-frame=false&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tessstarkbankai&theme=radical&no-frame=false&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 GitHub: **[@Ayushmaan-rai](https://github.com/Ayushmaan-rai)**
-- 🔥 Always open to collaborating on **full-stack, AI, and university-scale projects**
-- 🚀 Focused on building **impactful solutions** that help students, startups, and institutions
+- 💼 GitHub: **[@tessstarkbankai](https://github.com/tessstarkbankai)**
+- 🔥 Collaborating on **full-stack, AI, and university-scale systems**
+- 🚀 Building digital solutions for **students, startups, and institutions**
 
 ---
 
