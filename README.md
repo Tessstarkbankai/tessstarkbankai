@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#E4405F;">Ayush Rai (AYUSHMAAN)</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;SDE+at+Outright+Systems+Pvt+Ltd;Building+Real+World+Web+Solutions;Startup+Founder+%26+Tech+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+AI+Engineer;SDE+at+Outright+Systems+Pvt+Ltd;Building+Real+World+Web+Solutions;Startup+Founder+%26+Tech+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
